@@ -1,0 +1,14 @@
+Countries = [
+	{
+	"Country": "Nederland is een van de landen binnen het Koninkrijk der Nederlanden.[9] Nederland ligt voor het overgrote deel in het noordwesten van Europa, aan de Noordzee. Naast het Europese deel zijn er nog de drie bijzondere gemeenten in de Caribische Zee, die ook wel Caribisch Nederland worden genoemd. Europees Nederland wordt in het zuiden begrensd door België, langs de oostgrens door Duitsland en aan west- en noordzijde door de zee. De hoofdstad van Nederland is Amsterdam, de regeringszetel is Den Haag.",
+  "id": 1
+	},
+	{
+	"Country": "De Bondsrepubliek Duitsland (Duits: Bundesrepublik Deutschland), kortweg Duitsland (Duits: Deutschland, afgekort: BRD), is een land in Centraal-Europa. Het heeft een grondgebied van 357.022 km² en grenst in het noorden aan de Oostzee, de Noordzee en Denemarken, in het oosten aan Polen en Tsjechië, in het zuiden aan Oostenrijk en Zwitserland en in het westen aan Frankrijk, Luxemburg, België en Nederland. Duitsland heeft met 80.594.017 (2017) inwoners de grootste bevolking van alle landen in de Europese Unie. De hoofdstad en grootste stad van het land is Berlijn.",
+  "id": 2
+	},
+	{
+	"Country": "België, officieel het Koninkrijk België, is een West-Europees land dat aan de Noordzee ligt en aan Nederland, Duitsland, Luxemburg en Frankrijk grenst. Het land is 30.689 km² groot[7] en heeft een bevolking van meer dan 11,5 miljoen inwoners (ruim 6,5 miljoen in het Vlaams Gewest, 3,6 miljoen in het Waals Gewest en 1,2 miljoen in het Brussels Hoofdstedelijk Gewest).[8] De belangrijkste stad is Brussel, hoofdstad van België en tevens bestuurlijk centrum van de Europese Unie en de NAVO.",
+  "id": 3
+	}
+]
